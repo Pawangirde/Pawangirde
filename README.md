@@ -74,9 +74,9 @@ I build high-performance, scalable web platforms, with pixel-perfect UIs on the 
 
 **Architecture & Tools**
 
-![Redis Queues](https://img.shields.io/badge/Redis_Queues-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Cron Jobs](https://img.shields.io/badge/Cron_Jobs-4B5563?style=flat-square&logo=clockify&logoColor=white)
-![Load Balancing](https://img.shields.io/badge/Load_Balancing-0EA5E9?style=flat-square&logo=nginx&logoColor=white)
+![Redis Queues](https://img.shields.io/badge/Redis%20Queues-DC382D?style=flat-square&logo=redis&logoColor=white&v=2)
+![Cron Jobs](https://img.shields.io/badge/Cron%20Jobs-4B5563?style=flat-square&logo=clockify&logoColor=white&v=2)
+![Load Balancing](https://img.shields.io/badge/Load%20Balancing-0EA5E9?style=flat-square&logo=nginx&logoColor=white&v=2)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
